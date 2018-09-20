@@ -1,0 +1,26 @@
+{
+  "name": "kirakira-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Twinkle stars, in background.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "star",
+		"cute",
+		"cawaii"
+  ],
+  "repository": "https://github.com/atom/kirakira-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+	"configSchema": {
+		"Opacity": {
+			"type": "integer",
+			"default": 0,
+			"minimum": 0,
+			"maximum": 100
+		}
+	}
+}

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 768" style="enable-background:new 0 0 1024 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#ffa100;}
+	.st1{fill:#29ABE2;}
+	.st2{fill:#e6e59c;}
+</style>
+<g id="nomove">
+	<polygon class="st0" points="984.66,63.94 981.46,58.07 974.82,57.37 979.41,52.52 978.02,45.99 984.05,48.86 989.84,45.51
+		988.97,52.14 993.94,56.61 987.37,57.83">
+		<animate attributeName="fill" repeatCount="indefinite" dur="30s" values="#9ce0e5;#bf9ce6;#9ce0e5" />
+	</polygon>
+	<polygon class="st0" points="841.5,83.24 831.6,79.48 822.9,85.51 823.42,74.94 815,68.52 825.21,65.75 828.71,55.76 834.51,64.61
+		845.09,64.85 838.46,73.1">
+		<animate attributeName="fill" repeatCount="indefinite" dur="45s" values="#bf9ce6;#e6b29c;#bf9ce6" />
+	</polygon>
+	<polygon class="st0" points="1003.33,214.32 996.64,207.06 986.87,208.45 991.71,199.85 987.37,190.98 997.05,192.93
+		1004.13,186.06 1005.27,195.86 1014,200.48 1005.03,204.6">
+		<animate attributeName="fill" repeatCount="indefinite" dur="45s" values="#e6b29c;#9ce69f;#e6b29c" />
+	</polygon>
+	<polygon class="st0" points="913.61,127.47 909.36,126.3 905.98,129.13 905.78,124.72 902.04,122.39 906.17,120.84 907.24,116.56
+		909.99,120.01 914.39,119.7 911.96,123.38 ">
+		<animate attributeName="fill" repeatCount="indefinite" dur="60s" values="#9ce69f;#e69c9c;#9ce69f" />
+	</polygon>
+	<polygon class="st0" points="1015.75,119.43 1012.93,118.74 1010.76,120.67 1010.55,117.77 1008.04,116.31 1010.73,115.21
+		1011.35,112.37 1013.22,114.59 1016.12,114.3 1014.59,116.77">
+		<animate attributeName="fill" repeatCount="indefinite" dur="45s" values="#e69c9c;#9cc2e6;#e69c9c" />
+	</polygon>
+	<polygon class="st0" points="862.68,168.49 857.02,168.3 853.66,172.85 852.1,167.42 846.73,165.63 851.42,162.46 851.46,156.8
+		855.92,160.28 861.31,158.57 859.39,163.89">
+		<animate attributeName="fill" repeatCount="indefinite" dur="75s" values="#9cc2e6;#e69c9c;#9cc2e6" />
+	</polygon>
+	<polygon class="st0" points="923,54.82 915.4,52.51 909.2,57.46 909.05,49.52 902.43,45.15 909.93,42.56 912.04,34.91
+		916.82,41.24 924.75,40.88 920.21,47.39">
+		<animate attributeName="fill" repeatCount="indefinite" dur="60s" values="#e69c9c;#9ce0e5;#e69c9c" />
+	</polygon>
+	<polygon class="st0" points="954.09,171.17 948.4,172.3 946.09,177.63 943.26,172.56 937.48,172.01 941.43,167.75 940.16,162.09
+		945.43,164.52 950.43,161.57 949.73,167.33">
+		<animate attributeName="fill" repeatCount="indefinite" dur="45s" values="#9ce0e5;#9ce69f;#9ce0e5" />
+	</polygon>
+	<polygon class="st0" points="953.29,107.47 955.48,112.43 960.86,111.84 957.66,116.21 960.86,120.59 955.48,120 953.29,124.96
+		951.1,120 945.71,120.59 948.92,116.21 945.71,111.84 951.1,112.43">
+		<animate attributeName="fill" repeatCount="indefinite" dur="60s" values="#9ce69f;#bf9ce6;#9ce69f" />
+	</polygon>
+	<polygon class="st0" points="902.35,205.22 900.8,205 900.12,206.41 899.54,204.95 897.97,205.07 898.94,203.83 898.06,202.54
+		899.61,202.76 900.3,201.35 900.88,202.81 902.44,202.69 901.47,203.92">
+		<animate attributeName="fill" repeatCount="indefinite" dur="45s" values="#e6e59c;#fffcd0;#e6e59c" />
+	</polygon>
+	<polygon class="st0" points="882.78,88.06 876.99,87.08 874.3,92.3 872.26,86.79 866.39,87.07 870.14,82.55 866.96,77.61
+		872.76,78.6 875.45,73.37 877.49,78.88 883.36,78.6 879.6,83.12">
+		<animate attributeName="fill" repeatCount="indefinite" dur="75s" values="#9ce0e5;#e69c9c;#9ce0e5" />
+	</polygon>
+</g>
+<g id="kirakira">
+	<polygon class="st1" points="927.02,89.4 922.86,88.42 920.67,92.09 919.44,88 915.17,87.93 918.1,84.82 916.03,81.09
+		920.18,82.08 922.37,78.41 923.6,82.5 927.87,82.57 924.94,85.67">
+		<animate attributeName="fill" repeatCount="indefinite" dur="60s" values="#e6b29c;#9cc2e6;#e6b29c" />
+		<animateTransform attributeName="transform" attributeType="XML" type="rotate" values="0,921.521,85.249; 0,921.521,85.249; 20,921.521,85.249; 0,921.521,85.249" keyTimes="0;0.99;0.995;1" dur="120s" repeatCount="indefinite" />
+	</polygon>
+	<polygon class="st1" points="986.67,149.13 988.69,153.24 993.22,153.9 989.94,157.09 990.72,161.6 986.67,159.47 982.62,161.6
+		983.39,157.09 980.11,153.9 984.64,153.24">
+		<animate attributeName="fill" repeatCount="indefinite" dur="45s" values="#9cc2e6;#9ce69f;#9cc2e6" />
+		<animateTransform attributeName="transform" attributeType="XML" type="rotate" values="0,986.667,155.366; -30,986.667,155.366; 0,986.667,155.366; 0,986.667,155.366" keyTimes="0;0.29;0.295;1" dur="120s" repeatCount="indefinite" />
+	</polygon>
+	<polygon class="st1" points="846.86,122.92 842.05,121.82 838.41,125.16 837.97,120.24 833.67,117.82 838.21,115.88 839.19,111.04
+		842.43,114.76 847.34,114.19 844.8,118.43">
+		<animate attributeName="fill" repeatCount="indefinite" dur="60s" values="#e69c9c;#bf9ce6;#e69c9c;" />
+		<animateTransform attributeName="transform" attributeType="XML" type="rotate" values="0,840.505,118.098; 360,840.505,118.098; 360,840.505,118.098" keyTimes="0;0.79;1" dur="120s" repeatCount="indefinite" />
+	</polygon>
+	<polygon class="st1" points="948.2,236.32 944.59,232.84 939.68,233.83 941.88,229.33 939.41,224.96 944.38,225.66 947.76,221.97
+		948.63,226.9 953.19,228.99 948.77,231.34">
+		<animate attributeName="fill" repeatCount="indefinite" dur="75s" values="#9ce69f;#e69c9c;#9ce69f" />
+		<animateTransform attributeName="transform" attributeType="XML" type="rotate" values="0,946.303,229.143; -50,946.303,229.143; 0,946.303,229.143; 0,946.303,229.143" keyTimes="0;0.5;0.55;1" dur="120s" repeatCount="indefinite" />
+	</polygon>
+</g>
+<g id="kirarin">
+	<polygon class="st2" points="836.89,15.5 831.88,16.19 829.6,20.71 827.39,16.15 822.38,15.39 826.04,11.88 825.22,6.88
+		829.69,9.27 834.19,6.95 833.29,11.93">
+		<animateTransform attributeName="transform" attributeType="XML" type="rotate" values="0,0,768; 0,0,768; 360,0,768" keyTimes="0;0.9995;1" dur="10000s" repeatCount="indefinite" />
+	</polygon>
+</g>
+</svg>
