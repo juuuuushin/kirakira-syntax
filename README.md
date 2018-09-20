@@ -14,9 +14,10 @@ This time I use SVG as background. Therefore, animation can not be stopped by se
 ## Setting
 With this theme you can set the transparency of the background.  
 You can specify a number from 0 to 100. The default is 0.  
+After changing this setting, you need to restart the computer.  
 And, if you want to change image, you change "bg.svg" yourself in "C:\Users\user_name\.atom\packages\kirakira-syntax\styles\".
 
-0～100の間で星の透明度を設定できます。デフォルトは0です。  
+0～100の間で星の透明度を設定できます。デフォルトは0です。変更後はPCを再起動してください。  
 もしも背景画像を変えたいときは"C:\Users\user_name\.atom\packages\kirakira-syntax\styles\"内にあるbg.svgを変更してください。
 
 ## UI
