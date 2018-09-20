@@ -6,6 +6,8 @@ This time I use SVG as background. Therefore, animation can not be stopped by se
 キラキラしたテーマが作りたかったので、キラキラにしました。  
 背景にはSVGを使っているから設定ではアニメーションを止められません。
 
+![ss](https://user-images.githubusercontent.com/35618981/45806037-fc90e400-bcfa-11e8-90d6-f180ca272c3f.jpg)
+
 ## Install
 `apm install kirakira-syntax`
 
