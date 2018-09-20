@@ -30,3 +30,7 @@ UIはAtom DarkよりOne Darkの方があんま違和感なくておすすめ。
 
 ## Update
 2018.9.20 publish
+
+## Happy!
+Using this theme in a long time has something a little better. kirakira!  
+長い時間使用するとちょっとだけいいことがあります。
