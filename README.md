@@ -25,8 +25,9 @@ I recommend One Dark for this theme.
 
 UIはAtom DarkよりOne Darkの方があんま違和感なくておすすめ。
 
-## Twitter
-[Twitter](https://twitter.com/jushin_ps)
+## Contact
+From my website.  
+[mylog](https://kihara.coresv.com/)
 
 ## Update
 2018.9.20 publish
